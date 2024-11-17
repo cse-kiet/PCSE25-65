@@ -74,7 +74,7 @@ To get started with this project, clone the repository and follow the steps belo
  The system will open a window that captures gestures via webcam and displays the recognized sign language motions with corresponding spoken English output.
 
 ## Dataset
-The system requires a labeled dataset of sign language gestures for training. You can use publicly available datasets such as the American Sign Language (ASL) Alphabet Dataset or collect your own dataset of gestures. Ensure that the images are labeled with the corresponding letters or words.
+The system requires a labeled dataset of sign language gestures for training. You can use publicly available datasets such as the American Sign Language (ASL) Alphabet Dataset or collect your own dataset of gestures. Ensure that the images are labeled with the corresponding letters or words. The dataset that we have used for this project is Indian Sign Language Real Life Words.
 
 ## System Architecture
 1. **Data Collection & Preprocessing:** The input is live video feed from a webcam. Frames are extracted and preprocessed using OpenCV.
