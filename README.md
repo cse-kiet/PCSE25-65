@@ -1,10 +1,9 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: Translating Sign Language to Speech
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Tanya Sharma
+2. Srishti Upadhayay
+3. Vikas Kumar
 
 ## Steps for Execution:
 1. [STEP 1]
